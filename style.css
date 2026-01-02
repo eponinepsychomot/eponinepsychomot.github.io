@@ -35,3 +35,17 @@ footer {
   text-align: justify;
 }
 
+.btn {
+  background-color: #8fb9a8;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #6c9c88;
+  transform: scale(1.05);
+}
