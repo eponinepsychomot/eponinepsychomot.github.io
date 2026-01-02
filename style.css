@@ -49,3 +49,6 @@ footer {
   background-color: #6c9c88;
   transform: scale(1.05);
 }
+body {
+  font-family: 'Roboto', Arial, sans-serif;
+}
