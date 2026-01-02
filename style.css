@@ -1,6 +1,95 @@
-body {
-  font-family: Arial, sans-serif;
-  background: #f4f4f4;
-  text-align: center;
-  padding-top: 50px;
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Eponine Dias – Psychomotricienne à domicile</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <header>
+    <h1>Eponine Dias – Psychomotricienne</h1>
+    <p>Psychomotricienne diplômée d'État – Séances et bilans à domicile</p>
+  </header>
+
+  <section>
+    <h2>Qui suis-je ?</h2>
+    <p>
+      Je suis psychomotricienne diplômée d’État depuis 2020.
+      J’accompagne enfants, adolescents et adultes à domicile,
+      en proposant des séances et des bilans psychomoteurs adaptés aux besoins de chacun.
+    </p>
+  </section>
+
+  <section>
+    <h2>La psychomotricité</h2>
+    <p>
+      La psychomotricité est une discipline paramédicale qui s’intéresse aux liens entre le psychique (émotions, cognition, affectivité) et le moteur (gestes, posture, tonus, coordination). 
+      Elle vise à harmoniser le développement corporel et psychique afin de favoriser le bien-être, l’autonomie et l’adaptation de la personne dans son environnement. 
+      Elle considère que le corps et l’esprit sont étroitement liés et que le développement, l’expression ou les difficultés d’une personne passent autant par le mouvement que par les fonctions mentales.
+      Le psychomotricien intervient pour évaluer, prévenir et rééduquer des troubles qui affectent la motricité, la gestion du tonus, la relation à l’espace, au temps, au corps ou aux autres mais également pour renforcer les fonctions cognitives.
+
+Le psychomotricien est le spécialiste des troubles neurodéveloppementaux (TND). 
+C’est un ensemble de troubles qui apparaissent durant le développement de l’enfant, généralement dès la petite enfance, et qui résultent d’un fonctionnement atypique du cerveau. 
+Ils affectent de manière durable plusieurs domaines : la communication, les interactions sociales, le langage, la motricité, l’attention, les apprentissages, la régulation comportementale et émotionnelle. 
+Ils ont une origine neurobiologique et ont un important retentissement sur la vie quotidienne qu’il est possible d’atténuer ou de compenser grâce à un accompagnement adapté et précoce. 
+Selon le DSM-5, les principaux TND sont :
+-	Trouble du spectre de l’autisme (TSA)
+-	Trouble déficitaire de l’attention avec ou sans hyperactivité (TDAH)
+-	Troubles du développement de la coordination (TDC / dyspraxies)
+-	Troubles spécifiques des apprentissages (dyslexie, dysorthographie, dyscalculie…)
+-	Troubles de la communication (langage oral, pragmatique…)
+-	Déficience intellectuelle
+-	Tics / syndrome de Gilles de la Tourette
+
+Les médiations et outils utilisés sont variés : jeux corporels ou de bureau, relaxation, activités rythmiques, travail de coordination, expression corporelle, travail écologique en milieu quotidien, travail de remédiation cognitive etc.
+.
+    </p>
+  </section>
+
+  <section>
+    <h2>Prestations proposées</h2>
+    <ul>
+      <li>Bilans psychomoteurs à domicile enfants / ados : 170 euros</li>
+      <li>Bilans psychomoteurs à domicile adultes: 160 euros</li>
+      <li>Séances de psychomotricité à domicile (30 minutes) : 35 euros</li>
+      <li>Séances de psychomotricité à domicile (45 minutes): 40 euros</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Secteur d’intervention</h2>
+    <p>
+      J’interviens à domicile sur le secteur de <strong>[Toulouse]</strong> et ses environs.
+    </p>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <p>
+      📧 Email : <strong>eponinedias.psychomot@outlook.fr</strong><br>
+      📞 Téléphone : <strong>06 14 98 19 56</strong>
+      📅 Prise de rendez-vous en ligne :<br>
+    <a href="https://www.doctolib.fr/psychomotricien/toulouse/eponine-dias-toulouse" target="_blank">
+      Prendre rendez-vous sur Doctolib pour un bilan psychomoteur
+    </a>
+      
+    </p>
+  </section>
+
+  <footer>
+    <p>© 2026 – Eponine Dias – Psychomotricienne</p>
+  </footer>
+
+</body>
+</html>
+a {
+  color: #4a7c6d;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
