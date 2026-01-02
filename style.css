@@ -85,3 +85,25 @@ h2 i {
   font-size: 1.2em;  /* légèrement plus grand que le texte */
   vertical-align: middle; /* aligne l’icône avec le texte */
 }
+header {
+  background-color: #8fb9a8;
+  color: white;
+  text-align: center;
+  padding: 30px 15px;
+  position: relative;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  background-color: #8fb9a8;
+  color: white;
+  padding: 20px;
+}
+
+header .logo {
+  width: 80px;
+  height: auto;
+}
