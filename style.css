@@ -79,6 +79,15 @@ a:hover {
   color: #6c9c88;
   text-decoration: underline;
 }
+a {
+  color: #4a7c6d;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
 h2 i {
   color: #4a7c6d;  /* couleur pro verte */
   margin-right: 10px; /* espace entre l’icône et le texte */
