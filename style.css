@@ -13,7 +13,7 @@ header {
   align-items: center;
   gap: 20px;
 
-  background-color: #1e2223; /* bleu ciel pastel */
+  background-color: #c1dee6; /* bleu ciel pastel */
   color: #333;
 
   padding: 20px 30px;
@@ -24,7 +24,7 @@ header .logo {
   width: 300px;
   height: auto;
 
-  background-color: #1e2223;
+  background-color: #c1dee6;
   padding: 6px;
 
   border: 4px solid #333;
