@@ -167,5 +167,8 @@ footer {
 
   font-weight: 700;
 }
-
+.titre-degrade {
+  font-size: 1.9em;
+  letter-spacing: 0.5px;
+}
 
