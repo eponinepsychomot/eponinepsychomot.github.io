@@ -151,4 +151,21 @@ footer {
     font-size: 1em;
   }
 }
+/* ---------- Titre avec dégradé pastel ---------- */
+.titre-degrade {
+  background: linear-gradient(
+    90deg,
+    #E6A36F,  /* orange pastel */
+    #DFA3BE,  /* rose pastel */
+    #B6A5D8,  /* violet pastel */
+    #9FC8D9,  /* bleu pastel */
+    #9FCBB3   /* vert pastel */
+  );
+
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  font-weight: 700;
+}
+
 
