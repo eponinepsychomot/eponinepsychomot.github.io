@@ -13,7 +13,7 @@ header {
   align-items: center;
   gap: 20px;
 
-  background-color: #E6F3F8!important; /* bleu ciel pastel */
+  background-color: #b7dceb; /* bleu ciel pastel */
   color: #333;
 
   padding: 20px 30px;
@@ -24,7 +24,7 @@ header .logo {
   width: 300px;
   height: auto;
 
-  background-color: #E6F3F8!important;
+  background-color: #b7dceb;
   padding: 6px;
 
   border: 4px solid #333;
@@ -106,7 +106,7 @@ h2 i {
 /* ---------- Bouton Doctolib ---------- */
 .btn {
   display: inline-block;
-  background-color: #E6F3F8!important;
+  background-color: #b7dceb;
   color: black;
   padding: 12px 20px;
   border-radius: 8px;
