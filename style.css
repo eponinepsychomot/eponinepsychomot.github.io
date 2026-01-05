@@ -99,7 +99,7 @@ h2 i {
 .btn {
   display: inline-block;
   background-color: #C7E3DE;   /* bleu-vert doux */
-  color: #000000;
+  color: black;
   padding: 12px 20px;
   border-radius: 8px;
   text-decoration: none;
